@@ -1,6 +1,6 @@
 # LICENSE
 
-## CONTAM_IDE — Apache License 2.0
+## CONTAM_IDE — Apache 2.0
 
 Copyright 2026 Hongtao Lu  
 Contact: chemiker2010@gmail.com, chemiker@126.com
