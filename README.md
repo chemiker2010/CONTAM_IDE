@@ -86,7 +86,7 @@ Detailed docs: [`docs/`](docs/README.md)
 
 - **Rust** (stable) and **Cargo**
 - **Node.js 22+** and **npm** (for the IDE only)
-- **ContamX static library** for simulation: copy `contam.lib` (Windows) or `libcontamlib.a` (macOS/Linux) to the repo root — see [`libs/README.md`](libs/README.md)
+- **ContamX static library** for simulation: copy `contam.lib` (Windows) or `libcontamlib.a` (Linux) to the repo root — see [`libs/README.md`](libs/README.md)
 
 Parser and CLI work without the native library.
 
