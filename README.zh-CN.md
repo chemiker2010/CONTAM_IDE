@@ -84,7 +84,7 @@ CONTAM_IDE 正在逐步覆盖更多 ContamW 工作流。常见建模与仿真任
 
 - **Rust**（stable）与 **Cargo**
 - **Node.js 22+** 与 **npm**（仅 IDE 需要）
-- **ContamX 静态库**（仿真必需）：将 `contam.lib`（Windows）或 `libcontamlib.a`（macOS/Linux）放到仓库根目录 — 见 [`libs/README.md`](libs/README.md)
+- **ContamX 静态库**（仿真必需）：将 `contam.lib`（Windows）或 `libcontamlib.a`（Linux）放到仓库根目录 — 见 [`libs/README.md`](libs/README.md)
 
 解析器与 CLI 无需原生库即可使用。
 
