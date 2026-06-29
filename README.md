@@ -2,12 +2,14 @@
 **A modern open-source integrated development environment (IDE) for CONTAM-based indoor air quality and airflow simulation workflows.** 
 
 **An easier way to work with [CONTAM](https://www.nist.gov/services-resources/software/contam) — a cross-platform desktop IDE and open Rust toolchain for building airflow and contaminant transport models.**
-
+ 
 CONTAM_IDE uses the same native `.prj` format as ContamW, runs on ContamX, and offers a clearer, more approachable editing experience. Built with Rust, Tauri 2, React, and Three.js.
 
 [中文介绍](README.zh-CN.md)
 
 ---
+## Status：Pre release.
+**Core PRJ workflow is implemented. The project is currently validating compatibility across a broader set of CONTAM models before the first open-source release.**
 
 ## What is this?
 
